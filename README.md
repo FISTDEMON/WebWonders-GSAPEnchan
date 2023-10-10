@@ -1,4 +1,4 @@
-# WebWonders-GSAPEnchan
+# WebWonders-GSAPEnchant
 http://127.0.0.1:3000/index.html
 # Modern Web Development Project
 
